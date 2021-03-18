@@ -1,0 +1,10 @@
+@baseURL = http://localhost:3333
+
+### PRODUCTS
+GET {{baseURL}}/products
+
+### PRODUCT 
+GET {{baseURL}}/products/2
+
+### STOCK
+GET {{baseURL}}/stock/2
